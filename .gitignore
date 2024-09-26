@@ -1,0 +1,6 @@
+env
+.idea
+__pycache__
+.env 
+.DS_Store
+Archive.zip
